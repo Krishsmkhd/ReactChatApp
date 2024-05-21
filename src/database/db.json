@@ -1,0 +1,78 @@
+{
+  "group201": [
+    {
+      "id": "f4971ea9-c488-4696-a9ba-a96bb763f01f",
+      "uid": "db16cf89-6ba4-4590-9eb9-dd40e431ef97",
+      "message": "hi",
+      "time": "7:28 AM"
+    },
+    {
+      "id": "30a83913-00f7-4cb2-aa1d-65c16f2a9c42",
+      "uid": "db16cf89-6ba4-4590-9eb9-dd40e431ef97",
+      "message": "jo",
+      "time": "7:29 AM"
+    },
+    {
+      "id": "920f4585-d073-4a83-989e-1508558bbad1",
+      "uid": "1bbde717-cc8c-455a-9d14-43b890d30700",
+      "message": "hello",
+      "time": "7:31 AM"
+    },
+    {
+      "id": "318c05c1-82a0-41ff-a86f-26aa87e24489",
+      "uid": "db16cf89-6ba4-4590-9eb9-dd40e431ef97",
+      "message": "How are you doing brother?",
+      "time": "7:32 AM"
+    },
+    {
+      "id": "c2facb25-34e1-47e1-9d6b-529d84923822",
+      "uid": "1bbde717-cc8c-455a-9d14-43b890d30700",
+      "message": "Im doing fine",
+      "time": "7:33 AM"
+    },
+    {
+      "id": "49604e6c-0f23-43c3-ad9f-2c80692f31ed",
+      "uid": "1bbde717-cc8c-455a-9d14-43b890d30700",
+      "message": "how about you?",
+      "time": "7:33 AM"
+    },
+    {
+      "id": "98a362e6-ec6b-4f25-9633-67b8abf2c080",
+      "uid": "1bbde717-cc8c-455a-9d14-43b890d30700",
+      "message": "hi i am sandip rai",
+      "time": "8:05 AM"
+    },
+    {
+      "id": "6e527f85-03a1-4efb-b79e-9c989ed51475",
+      "uid": "db16cf89-6ba4-4590-9eb9-dd40e431ef97",
+      "message": "hi sanddep im krish",
+      "time": "8:05 AM"
+    }
+  ],
+  "groupMessage": [
+    {
+      "id": "01",
+      "name": "201",
+      "members": [],
+      "messages": []
+    }
+  ],
+  "users": [
+    {
+      "id": "db16cf89-6ba4-4590-9eb9-dd40e431ef97",
+      "fullname": "Krish Simkhada",
+      "username": "Krish Simkhada",
+      "email": "krishsmkhd@gmail.com",
+      "password": "i.am.krish.11",
+      "type": "user"
+    },
+    {
+      "id": "1bbde717-cc8c-455a-9d14-43b890d30700",
+      "fullname": "Sandip Rai",
+      "username": "Sandip Rai",
+      "email": "sandiprai@gmail.com",
+      "password": "Sandip@1234567",
+      "type": "user"
+    }
+  ]
+}
